@@ -8,7 +8,7 @@ _Boost Build iOS_OSX_Android_C++11
 	
 		|___build.zip
 		
-	|___iOS_OSX
+	|___iOS_OSXBuildBoost1_54
 	
 		|___iOS
 		
