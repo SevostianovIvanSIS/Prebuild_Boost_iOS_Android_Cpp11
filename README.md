@@ -139,7 +139,7 @@ And lots of contributions by other people.
 ————————————————————————————————————————————————
 In prebuildBoost folder your can find prebuilt boost for Android and iOS with C++11 enabled 
 
-for iOS build libs : 
+for iOS build libs (Framework): 
 
 -atomic
 -chrono
