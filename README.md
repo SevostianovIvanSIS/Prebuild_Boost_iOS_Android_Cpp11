@@ -29,8 +29,6 @@ for iOS build libs (Framework):
 
 -atomic
 -chrono
--context
--coroutine
 -date_time
 -exception
 -filesystem
@@ -38,8 +36,6 @@ for iOS build libs (Framework):
 -graph_parallel
 -iostreams
 -locale
--log
--math
 -mpi
 -program_options
 -python
