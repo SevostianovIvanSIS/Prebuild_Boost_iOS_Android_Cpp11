@@ -6,8 +6,7 @@ Prebuild boost for iOS/Android (boost_1.54 and boost_1.53) With C++11 enabled
 This repo is practically a fork of https://github.com/mgrebenets/boost-ios-xcode5 and 
 https://github.com/MysticTreeGames/Boost-for-Android
 
-———————————————————————————————————————————————————————————————————————————————————————
-
+————————————————————————————————————————————————
 Boost for Android
 Boost for android is a set of tools to compile the main part of the Boost C++ Libraries for the Android platform.
 
@@ -72,7 +71,7 @@ LOCAL_LDLIBS += lboost_system-gcc-md lboost_thread-gcc-md \
              -L$(NDK_ROOT)/sources/cxx-stl/gnu-libstdc++/libs/armeabi \
              -lgnustl_static
 
-———————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————
 Build Boost Framework for iOS and OSX
 Using Xcode5 (armv7, armv7s, arm64, i386, x86_64)
 
@@ -137,9 +136,11 @@ http://goodliffe.blogspot.com.au/2010/09/building-boost-framework-for-ios-iphone
 http://goodliffe.blogspot.com.au/2009/12/boost-on-iphone.html
 And lots of contributions by other people.
 
-———————————————————————————————————————————————————————————————————————————————————————
+————————————————————————————————————————————————
 In prebuildBoost folder your can find prebuilt boost for Android and iOS with C++11 enabled 
+
 for iOS build libs : 
+
 -atomic
 -chrono
 -context
@@ -167,6 +168,7 @@ for iOS build libs :
 -wave 
 
 for Android build libs :
+
 -atomic
 -chrono
 -date_time
