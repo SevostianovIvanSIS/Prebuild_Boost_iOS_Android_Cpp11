@@ -13,8 +13,13 @@ References and Attribution
 The script mentioned above in it's turn is based on great work by Pete Goodliffe
 
 https://gitorious.org/boostoniphone
+
 http://goodliffe.blogspot.com.au/2010/09/building-boost-framework-for-ios-iphone.html
+
 http://goodliffe.blogspot.com.au/2009/12/boost-on-iphone.html
+
+https://github.com/ptoinson/Boost-Framework-For-iOS
+
 And lots of contributions by other people.
 
 ————————————————————————————————————————————————
@@ -24,8 +29,6 @@ for iOS build libs (Framework):
 
 -atomic
 -chrono
--context
--coroutine
 -date_time
 -exception
 -filesystem
@@ -33,8 +36,6 @@ for iOS build libs (Framework):
 -graph_parallel
 -iostreams
 -locale
--log
--math
 -mpi
 -program_options
 -python
